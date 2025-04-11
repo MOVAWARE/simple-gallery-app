@@ -1,0 +1,1 @@
+change to your url in `includes/config.php` or [click here to find file](includes/config.php)
